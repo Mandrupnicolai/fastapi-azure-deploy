@@ -2,7 +2,6 @@
 
 > A production-ready FastAPI REST API containerized with Docker and deployed to **Azure Container Apps** via a full GitHub Actions CI/CD pipeline.
 
-<<<<<<< HEAD
 [![CI/CD](https://github.com/Mandrupnicolai/fastapi-azure-deploy/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/Mandrupnicolai/fastapi-azure-deploy/actions/workflows/ci-cd.yml)
 [![codecov](https://codecov.io/gh/Mandrupnicolai/fastapi-azure-deploy/branch/main/graph/badge.svg)](https://codecov.io/gh/Mandrupnicolai/fastapi-azure-deploy)
 [![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -12,7 +11,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 =======
 ![CI/CD](https://github.com/Mandrupnicolai/fastapi-azure-deploy/actions/workflows/ci-cd.yml/badge.svg)
->>>>>>> d1988f5d0616d773c5255358a12a9eafa0eb74f3
 
 ---
 
