@@ -2,7 +2,7 @@
 
 > A production-ready FastAPI REST API containerized with Docker and deployed to **Azure Container Apps** via a full GitHub Actions CI/CD pipeline.
 
-![CI/CD](https://github.com/<YOUR_USERNAME>/fastapi-azure-deploy/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD](https://github.com/Mandrupnicolai/fastapi-azure-deploy/actions/workflows/ci-cd.yml/badge.svg)
 
 ---
 
