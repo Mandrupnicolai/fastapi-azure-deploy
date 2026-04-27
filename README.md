@@ -10,7 +10,6 @@
 [![Azure](https://img.shields.io/badge/azure-container--apps-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/en-us/products/container-apps)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 =======
-![CI/CD](https://github.com/Mandrupnicolai/fastapi-azure-deploy/actions/workflows/ci-cd.yml/badge.svg)
 
 ---
 
